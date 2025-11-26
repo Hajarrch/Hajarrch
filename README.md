@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Salut, moi c’est Hajar 👋
 
 Développeuse web junior, encore aux études mais déjà passionnée par les side projects.
