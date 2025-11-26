@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**Hajarrch/Hajarrch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Salut, moi c’est Hajar 👋
 
-Here are some ideas to get you started:
+Développeuse web junior, encore aux études mais déjà passionnée par les side projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Ce que je sais faire
+- HTML, CSS, JavaScript
+- Front-end avec **React** et **Vue**
+- Intégration de maquettes (Figma / Canva → code)
+- Sites et personnalisation **WordPress**
+- Petits scripts et automatisations simples en **Python**
+
+### 🧰 Outils que j’utilise
+- **Front-end :** HTML, CSS, JavaScript, React, Vue, Bootstrap  
+- **Autre :** Python, WordPress  
+- **Organisation :** Git, GitHub, Trello / Asana
+
+Je cherche des opportunités pour :
+- participer à des projets concrets,
+- améliorer mes compétences front-end,
+- toucher à des intégrations entre outils (web, automatisation, plugins, etc.).
+
+📫 Contact :https://www.linkedin.com/in/hajar-rchouk-051191101/
